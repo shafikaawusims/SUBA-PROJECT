@@ -9,7 +9,7 @@ This is a REST API that allows you to create and read sudents.
 
 - The Deployed Version of the API can be found at [Vercel](https://vercel.com/shafikaawusims/suba-project/BFh4UCDkrZA74Lv5GiEJd7EXrr9e)
 
-- The API documentation for the deployment can be found at [Postman](https://web.postman.co/documentation/25902982-102ca087-7566-4a2e-b3d0-b9655003673f/publish?workspaceId=12cdaf91-10ef-4e65-820c-7c743a040a2f)
+- The API documentation for the deployment can be found at [Postman](https://documenter.getpostman.com/view/25902982/2s93CHuEkX)
 
 # Usage
 
