@@ -39,7 +39,7 @@ const studentSchema= new mongoose.Schema({
         require: true,
     },
     level: {
-        type: String,
+        type: Number,
         require: true,
     },
     hallOfResidence: {
@@ -47,4 +47,5 @@ const studentSchema= new mongoose.Schema({
         require: true,
     }
 })
-module.export=student=mongoose.modelStudent,studentSchema
+
+module.exports = Student = mongoose.model("student", studentSchema);
